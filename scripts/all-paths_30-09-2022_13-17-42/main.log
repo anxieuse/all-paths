@@ -1,0 +1,2 @@
+[2022-09-30 13:17:42,596| INFO] Started script_abspath='/home/leo/work/huawei/all-paths/scripts/main.py' with args: Namespace(input='.', output='.')
+[2022-09-30 13:17:42,596| INFO] Read ./links.csv

@@ -1,0 +1,5 @@
+[2022-09-30 13:38:19,072| INFO] Started script_abspath='/home/leo/work/huawei/all-paths/scripts/main.py' with args: Namespace(input='/home/leo/work/huawei/all-paths/tests/sample01', output='.', maxweight=inf, maxedges=inf)
+[2022-09-30 13:38:19,072| INFO] Read /home/leo/work/huawei/all-paths/tests/sample01/links.csv
+[2022-09-30 13:38:19,073| INFO] Create graph
+[2022-09-30 13:38:19,074| INFO] Find all paths
+[2022-09-30 13:38:19,077| INFO] Sort paths
